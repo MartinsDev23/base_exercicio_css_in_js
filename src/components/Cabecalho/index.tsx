@@ -1,4 +1,4 @@
-import { Cabecalho } from './styles'
+import { Cabecalho } from './style'
 
 const Cabeca = () => (
   <Cabecalho>
